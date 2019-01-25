@@ -1,0 +1,10 @@
+/Users/susiesmac/eclipse-workspace/onlineShop/src/main/java/onlineShop/ApplicationConfig.java
+/Users/susiesmac/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Cart.java
+/Users/susiesmac/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Authorities.java
+/Users/susiesmac/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/SalesOrder.java
+/Users/susiesmac/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Product.java
+/Users/susiesmac/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/BillingAddress.java
+/Users/susiesmac/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/User.java
+/Users/susiesmac/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/ShippingAddress.java
+/Users/susiesmac/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Customer.java
+/Users/susiesmac/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/CartItem.java
