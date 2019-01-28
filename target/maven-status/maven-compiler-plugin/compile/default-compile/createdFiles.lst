@@ -1,4 +1,5 @@
 onlineShop/model/Product.class
+onlineShop/controller/HomePageController.class
 onlineShop/model/ShippingAddress.class
 onlineShop/ApplicationConfig.class
 onlineShop/model/Authorities.class
